@@ -1,0 +1,42 @@
+<gameObjects>
+  <scenes name="">
+    <gameObjects name="UI Root" asset="UI Root.prefab">
+      <transform>
+        <position>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </position>
+        <rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </rotation>
+        <scale>
+          <x>0.004210526</x>
+          <y>0.004210526</y>
+          <z>0.004210526</z>
+        </scale>
+      </transform>
+    </gameObjects>
+    <gameObjects name="GameObject" asset="GameObject.prefab">
+      <transform>
+        <position>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </position>
+        <rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+        </rotation>
+        <scale>
+          <x>200</x>
+          <y>200</y>
+          <z>1</z>
+        </scale>
+      </transform>
+    </gameObjects>
+  </scenes>
+</gameObjects>
